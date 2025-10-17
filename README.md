@@ -1,9 +1,5 @@
 # FUTURE_BC_Task01 – Crypto Exchange Onboarding and Analysis
 
-**A Professional Deep-Dive into Centralized Exchange Architecture, Security Models, and User Experience**
-
----
-
 ## Introduction
 
 Understanding crypto exchanges isn't just about buying tokens—it's about analyzing the infrastructure layer that bridges traditional finance with decentralized ecosystems. As someone who's worked with `python-bitcoin-utils` and implemented multisig PSBT signing on Bitcoin Testnet during Summer of Bitcoin 2025, I wanted to understand how centralized exchanges (CEXs) handle custody, compliance, and UX at scale.
